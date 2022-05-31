@@ -4,3 +4,7 @@ header {
     display: flex;
     
 }
+
+ul#contacts{
+    list-style: none;
+}
