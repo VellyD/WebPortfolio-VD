@@ -1,10 +1,19 @@
 @import url('https://use.fontawesome.com/releases/v6.1.1/css/all.css');
 
-header {
-    display: flex;
+.header{
+    text-align: center;
+}
+
+nav {
+    text-align: end;
     
 }
 
 ul#contacts{
     list-style: none;
+}
+
+footer {
+    text-align: center;
+    background-color: lightseagreen;
 }
