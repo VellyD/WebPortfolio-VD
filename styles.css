@@ -2,12 +2,13 @@
 
 .header {
     text-align: center;
+    background-color: lightcoral;
+    min-width: fit-content;
+    margin: 20px;
+    padding: 10px;
 }
 
-nav {
-    text-align: end;
 
-}
 
 ul#contacts {
     list-style: none;
